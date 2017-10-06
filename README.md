@@ -1,6 +1,6 @@
 # Terning
-This is a Java program for rolling dice.
-The program has known errors. 
+Det er et Java program for et terning kast.
+Programmet har kendte fejl.
 
 ## Purpose
-This is an exercise in using _GIT_ to fix errors and trace the changes.
+Det er en øvelse i at bruge _GIT_ for at løse fejl og spore ændringer.
