@@ -19,6 +19,7 @@ public class Dice {
 			//(s fjfjfdss
 			//#Gøgler123456
 			//PIS
+			//Den her gren!
 		}		
 	}
 }
