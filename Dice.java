@@ -18,6 +18,7 @@ public class Dice {
 			//Fuckssystemet
 			//(s fjfjfdss
 			//#Gøgler123456
+			//PIS
 		}		
 	}
 }
