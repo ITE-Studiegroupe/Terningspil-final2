@@ -14,7 +14,7 @@ public class Dice {
 		for (int i=1; i<n; i++) {
 			System.out.print(roll() + " ");
 			
-			//Prøve - Monica
+			//Prøve - Monica bla bla bla bla bla
 		}		
 	}
 }
