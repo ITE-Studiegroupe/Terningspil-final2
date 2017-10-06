@@ -17,7 +17,7 @@ public class Dice {
 			//Prøve - Monica bla bla bla bla bla
 			//Fuckssystemet
 			//(s fjfjfdss
-			//#Gøgler123
+			//#Gøgler123456
 		}		
 	}
 }
