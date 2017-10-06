@@ -19,6 +19,5 @@ public class Dice {
 		for (int i=1; i<=n; i++) { //Nu kører loopet n antal gange
 			System.out.print(roll() + " ");
 
-		}	
 	}
 }
