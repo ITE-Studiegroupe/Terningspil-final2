@@ -15,6 +15,7 @@ public class Dice {
 			System.out.print(roll() + " ");
 			
 			//Prøve - Monica bla bla bla bla bla
+			//Fuckssystemet
 		}		
 	}
 }
